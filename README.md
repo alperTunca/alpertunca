@@ -1,4 +1,4 @@
-### Hello World! I'm Alper TUNCA 👋
+### Hello World! I'm Alper. 👋
 
 
 
@@ -12,12 +12,20 @@
 
 
 <p align="center">
-    <img  src="https://github-readme-stats.vercel.app/api?username=alperTunca&show_icons=true&count_private=true&hide=contribs,issue" />
+    <img  src="https://github-readme-stats.vercel.app/api?username=alperTunca&show_icons=true&count_private=true&theme=dracula&hide_title=true" />
 </p>
 
 <p align="center">
   📫 How to reach me: <a href='mailto:atunca51@hotmail.com'>atunca51@hotmail.com</a>
 </p>
+
+
+
+<p align="center">
+    Currently Working On: 
+    .NET & Java & JS
+    </p>
+
 <p align="center">
     <a href="https://github.com/alperTunca/github-profile-views-counter">
         <img src="https://komarev.com/ghpvc/?username=alperTunca">
