@@ -23,6 +23,9 @@
         <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="32px" src="https://static.bndy.net/images/logos/android.png"> </a>   
 </p>
 
+<br/>
+<br/>
+
 <p align="center">
     <a href="https://github.com/alperTunca/github-profile-views-counter">
         <img src="https://komarev.com/ghpvc/?username=alperTunca">
