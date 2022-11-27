@@ -11,8 +11,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/alper-tunca-419611173/"><br/>
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /><br/>
-  </a>&nbsp;&nbsp;
-    <a href='mailto:atunca51@hotmail.com'>atunca51@hotmail.com</a>
+  </a>
 </p>
 
 ## :computer: Currently Working On
